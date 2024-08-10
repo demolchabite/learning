@@ -1,0 +1,14 @@
+Application qui va prendre le nom, prenom, sexe, age,poids, taille et un mot de passe (8caractères) d'un utilisateur pour calculer sont imc et déduire s'il est en surpoids, sous-poids ou normal.
+
+Fonctionnalités
+	Créer un compte et sauvegarde des informations
+	Calculer le rythme cardiaque et de l'imc
+	Interpretation des résultats des calculs
+	Donner des conseils sur l'alimentation et l'activité sportive en fonctions des résultats
+des calculs.
+	Gestionnaire de compte (création, connexion, suppression...) 
+
+
+	
+	
+	
